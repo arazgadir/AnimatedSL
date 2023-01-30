@@ -1,0 +1,1 @@
+export { height, width } from './ScreensSize'
